@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cyud2007
+- 👀 I’m interested in computer programming
+- 🌱 I’m currently learning Python
+- 💞️ I am looking for opportunities for cooperation of people who are also interested in programming (in particular, python)
+- 📫 How to reach me? My gmail is cyud.2019@gmail.com
