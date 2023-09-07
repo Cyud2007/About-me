@@ -16,5 +16,24 @@ I am an aspiring programmer with a great passion for the world of information te
 
 ---
 ### 💻 Programming languages I know:
-![image](https://github.com/Cyud2007/Cyud2007/assets/68701806/50410028-6d93-4be3-be47-d11f356e3c7a) ![image](https://github.com/Cyud2007/Cyud2007/assets/68701806/18014cad-4d7f-4182-8d9f-e96a5ed29de6)
+
+---
+### 🛠 Tools:
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+
+---
+### ⚙️ GitHub statistics:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
