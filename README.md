@@ -1,5 +1,10 @@
-👋About me
-Hello, my name is Simen, I'm 16 years old and I'm a beginner programmer. I started getting interested in programming at the age of 13.
+
+# Hi, my name is Simen!
+
+---
+### :mantechnologist: About me:
+
+I'm 16 years old and I'm a beginner programmer. I started getting interested in programming at the age of 13.
 
 Mastered the basics of Python, receiving two Stepik certificates. Currently learning C++.
 
