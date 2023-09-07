@@ -13,3 +13,5 @@ I am an aspiring programmer with a great passion for the world of information te
 - 📫 How can you contact me:  [![Telegram Badge](https://img.shields.io/badge/-Cyud-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Cyud2023) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:cyud.2019@gmail.com)
 
 ![svg](https://github.com/FilimonovAlexey/FilimonovAlexey/blob/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg)
+
+---
