@@ -10,4 +10,4 @@ I am an aspiring programmer with a great passion for the world of information te
 
 - 🔭 Successfully completed 2 courses on Stepik
 - ⚡I really want to master the IT profession and find a job
-- 📫 How can you contact me: [![Telegram Badge](https://img.shields.io/badge/-Cyud-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Cyud2023) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:cyud.2019@gmail.com)
+- 📫 How can you contact me:  [![Telegram Badge](https://img.shields.io/badge/-Cyud-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Cyud2023) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:cyud.2019@gmail.com)
