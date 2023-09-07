@@ -2,7 +2,7 @@
 # Hi, my name is Simen!
 
 ---
-### :mantechnologist: About me:
+### 👨‍💻 About me:
 
 I'm 16 years old and I'm a beginner programmer. I started getting interested in programming at the age of 13.
 
