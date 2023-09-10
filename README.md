@@ -4,7 +4,7 @@
 ---
 ### 👨‍💻 About me:
 
-I am a beginner front-end developer with a great passion for IT technologies. Your path to IT
+I am a front-end developer with a great passion for IT technologies. Your path to IT
 I started when I was only 13 years old. At first I tried my hand at the backend, but I didn’t like it and decided to go to the frontend. I know the basics of two languages (Python and C++)
 
 ### 🌱 My experience
