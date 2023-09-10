@@ -4,11 +4,10 @@
 ---
 ### 👨‍💻 About me:
 
-I am a front-end developer with a great passion for IT technologies. Your path to IT
-I started when I was only 13 years old. At first I tried my hand at the backend, but I didn’t like it and decided to go to the frontend. I know the basics of two languages (Python and C++)
+I am an aspiring programmer with a great passion for the world of information technology. I am currently 16 years old and I started my exciting journey into the world of programming when I was only 13 years old.
 
 ### 🌱 My experience
-Now I’m learning front-end development (JavaScript, KSS and HTML5), before that, I persistently studied Python and C++ for 2 years and successfully mastered their base. My efforts in learning these two languages allowed me not only to understand the basics of programming, but also to start creating my own projects (I can’t find them now, since they were on an old computer...)
+For a year and a half I paid close attention to the Python language and successfully mastered its basics. My efforts in learning Python allowed me to not only understand the basics of programming, but also to begin solving real-world problems and creating my own programs. I'm currently actively learning C++, expanding my skills and horizons in the world of programming. This language opens me up to new opportunities and challenges that I look forward to.
 
 - 🔭 Successfully completed 2 Python courses on Stepik
 - ⚡I really want to master the IT profession and find a job
