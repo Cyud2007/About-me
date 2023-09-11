@@ -37,14 +37,3 @@ For a year and a half I paid close attention to the Python language and successf
 ![svg](https://github.com/FilimonovAlexey/FilimonovAlexey/blob/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg)
 
 ---
-### ⚙️ GitHub statistics:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=FilimonovAlexey&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-  </tr>
-</table>
-
----
