@@ -32,6 +32,7 @@ For a year and a half I paid close attention to the Python language and successf
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
 
 ---
 ![svg](https://github.com/FilimonovAlexey/FilimonovAlexey/blob/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg)
